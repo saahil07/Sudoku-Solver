@@ -1,1 +1,1 @@
-# Sudoku-Solver
+#Solve the sudoku and print the solution.
